@@ -41,3 +41,29 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+NeuralNetwork/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+NeuralNetwork/obj/Debug/NeuralNetwork.csproj.FileListAbsolute.txt
+NeuralNetwork/obj/Debug/NeuralNetwork.dll
+NeuralNetwork/obj/Debug/NeuralNetwork.pdb
+NeuralNetwork/obj/Debug/NeuralNetwork.csprojResolveAssemblyReference.cache
+NeuralNetwork/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+NeuralNetwork/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+NeuralNetwork/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Console/bin/Debug/Console.exe
+Console/bin/Debug/Console.exe.config
+Console/bin/Debug/Console.vshost.exe.config
+Console/bin/Debug/NeuralNetwork.pdb
+Console/bin/Debug/Console.vshost.exe
+Console/bin/Debug/Console.vshost.exe.manifest
+Console/bin/Debug/NeuralNetwork.dll
+Console/bin/Debug/Console.pdb
+Console/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+NeuralNetwork/bin/Debug/NeuralNetwork.pdb
+NeuralNetwork/bin/Debug/NeuralNetwork.dll
+Console/obj/Debug/Console.csproj.FileListAbsolute.txt
+Console/obj/Debug/Console.exe
+Console/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Console/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Console/obj/Debug/Console.csprojResolveAssemblyReference.cache
+Console/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Console/obj/Debug/Console.pdb
